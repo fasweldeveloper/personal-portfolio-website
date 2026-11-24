@@ -115,7 +115,7 @@ const App = () => {
 
           <h2>
             I Build Modern
-            <span> Digital Experiences.</span>
+            <span> Tech Solutions.</span>
           </h2>
 
           <p className="hero-description">
